@@ -1,0 +1,35 @@
+html{
+  text-align: center;
+}
+
+
+body{
+  width: 50%;
+  display: inline;
+  text-align: center;
+}
+
+#clockArea{
+  /*border-radius: 5px;
+  border-width: thin;
+  border-style: solid;*/
+  text-align: center;
+  background-color: #aaa;
+}
+
+button{
+  margin-top: 10px;
+}
+
+span{
+  font-size: 100px;
+  text-align: center;
+  border-radius: 5px;
+  border-width: thin;
+  border-color: black;
+  border-style: solid;
+}
+
+.time-seperator{
+  border: 0;
+}
