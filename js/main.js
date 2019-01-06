@@ -5,7 +5,7 @@ var interval;
 
 //a function to update the timer every 1000ms (1s)
 function pulse(){
-  interval = setInterval(updateTimer, 100);
+  interval = setInterval(updateTimer, 1000);
 }
 
 //This function increments the second var by 1 each time it's called but resets
